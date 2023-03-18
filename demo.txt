@@ -1,4 +1,2 @@
 My demo file on demo branch
-Second Line on main branch
-Second Line on demo1 branch
-Second line on main branch
+Second Line on main & demo1 branch
